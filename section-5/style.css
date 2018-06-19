@@ -1,0 +1,8 @@
+.input-group-text {
+  min-width: 5em;
+  border-radius: 0;
+}
+
+.form-control {
+  border-radius: 0;
+}
