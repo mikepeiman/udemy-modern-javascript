@@ -1,0 +1,23 @@
+[
+  {
+  "id": 1,
+  "name": "Mike Peiman",
+  "age": 37,
+  "company": "Catalyst Web Design",
+  "phone": "604-698-7104"
+},
+{
+  "id": 2,
+  "name": "Melissa Peiman",
+  "age": 26,
+  "company": "AMAVIVA",
+  "phone": "206-823-9164"
+},
+{
+  "id": 1,
+  "name": "Kaya Peiman",
+  "age": 4,
+  "company": "Love Love Love",
+  "phone": "555-555-5555"
+}
+]
